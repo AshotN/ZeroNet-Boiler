@@ -1,0 +1,33 @@
+{
+ "address": "14WjZwsiuBhHpPvGWvN836YKaeWHhVPk6E",
+ "description": "",
+ "files": {
+  "index.html": {
+   "sha512": "ff968ee2408abd84744b2df831ae10e2d8bf3e2e51559a44d202455d7a644489",
+   "size": 230
+  },
+  "src/all.js": {
+   "sha512": "cb5a7bd3816c9ababe6d461e58ea763b346bd2e288a09f2711836fec5b6c792d",
+   "size": 2395
+  },
+  "src/main.css": {
+   "sha512": "b229b27a965569b35192752c77696e107aa79494fca9ca7520c9bc907d031f47",
+   "size": 231
+  }
+ },
+ "ignore": "node_modules|stylus|js|gulpfile.js|index.pug|package.json",
+ "inner_path": "content.json",
+ "modified": 1474419671.66186,
+ "postmessage_nonce_security": true,
+ "sign": [
+  43195818421901581613013037964504505208324526619172543465923674215447564584826,
+  85524322176867530013228887622015034418158100864445835375288984424439092808425
+ ],
+ "signers_sign": "HHm95IYuRYMopJSfDWnlKM6eKerKZAQLbFvMkfo9ti0S5VOhFu5BqmZAHPOigRsBNUbW8sLvS55cxa4+xvPVk3A=",
+ "signs": {
+  "14WjZwsiuBhHpPvGWvN836YKaeWHhVPk6E": "G/7OjO3x4GNjFHxYSZEJMcZgbi0V7B/P8awIhOPjbngalnf/4gHFWetVSJouE1lHG5lHC25PJ+6VM1Xvivv+pFU="
+ },
+ "signs_required": 1,
+ "title": "14WjZwsiuBhHpPvGWvN836YKaeWHhVPk6E - ZeroNet_",
+ "zeronet_version": "0.4.1"
+}
