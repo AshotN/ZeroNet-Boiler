@@ -11,6 +11,9 @@ pids
 logs
 results
 
+content.json
+data/
+
 *.seed
 *.log
 *.csv
